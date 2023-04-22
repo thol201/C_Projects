@@ -1,0 +1,3 @@
+﻿  heapSort.c
+C:\Users\TH\source\repos\asd\zad22\zad22\heapSort.c(15,11): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  zad22.vcxproj -> C:\Users\TH\source\repos\asd\zad22\x64\Debug\zad22.exe

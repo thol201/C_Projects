@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(19,20): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int *[10000]"
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(19,11): warning C4024: "prepTab": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(23,24): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int *[10000]"
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(23,15): warning C4024: "sort_bubble": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(24,24): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int *[10000]"
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(24,15): warning C4024: "sort_insert": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(25,23): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int *[10000]"
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(25,14): warning C4024: "sort_shell": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(26,22): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int *[10000]"
+C:\Users\TH\source\repos\asd\Zad21\Zad21\main.c(26,13): warning C4024: "quicksort": różne typy dla formalnego i rzeczywistego parametru 1
+  Zad21.vcxproj -> C:\Users\TH\source\repos\asd\Zad21\x64\Debug\Zad21.exe
