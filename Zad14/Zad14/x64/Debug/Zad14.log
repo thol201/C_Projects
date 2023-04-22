@@ -1,0 +1,7 @@
+﻿  binaryTree.c
+C:\Users\TH\source\repos\asd\Zad14\Zad14\binaryTree.c(242,14): warning C4477: „fscanf”: ciąg formatu „%s” wymaga argumentu typu „char *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char **”
+C:\Users\TH\source\repos\asd\Zad14\Zad14\binaryTree.c(244,15): warning C4047: "funkcja": "node *" różni się w poziomach operatorów pośrednich od "node **"
+C:\Users\TH\source\repos\asd\Zad14\Zad14\binaryTree.c(244,10): warning C4024: "insert": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\TH\source\repos\asd\Zad14\Zad14\binaryTree.c(246,13): warning C4098: "readFromFile": funkcja "void" zwraca wartość
+C:\Users\TH\source\repos\asd\Zad14\Zad14\binaryTree.c(251,1): warning C4029: zadeklarowana formalna lista parametrów różniąca się od definicji
+  Zad14.vcxproj -> C:\Users\TH\source\repos\asd\Zad14\x64\Debug\Zad14.exe
