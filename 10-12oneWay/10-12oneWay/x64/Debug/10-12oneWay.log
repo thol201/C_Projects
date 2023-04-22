@@ -1,0 +1,8 @@
+﻿  circularLinkedList.c
+C:\Users\TH\Downloads\ASD_LAB_22Z-TymoteuszHolona-master (2)\ASD_LAB_22Z-TymoteuszHolona-master\zadania10-12\circularLinkedList.c(152,3): warning C4033: "readFromFile" musi zwracać wartość
+C:\Users\TH\Downloads\ASD_LAB_22Z-TymoteuszHolona-master (2)\ASD_LAB_22Z-TymoteuszHolona-master\zadania10-12\circularLinkedList.c(157,18): warning C4047: "!=": "int" różni się w poziomach operatorów pośrednich od "void *"
+C:\Users\TH\Downloads\ASD_LAB_22Z-TymoteuszHolona-master (2)\ASD_LAB_22Z-TymoteuszHolona-master\zadania10-12\circularLinkedList.c(169,7): warning C4033: "saveToFile" musi zwracać wartość
+C:\Users\TH\Downloads\ASD_LAB_22Z-TymoteuszHolona-master (2)\ASD_LAB_22Z-TymoteuszHolona-master\zadania10-12\circularLinkedList.c(174,3): warning C4033: "saveToFile" musi zwracać wartość
+C:\Users\TH\Downloads\ASD_LAB_22Z-TymoteuszHolona-master (2)\ASD_LAB_22Z-TymoteuszHolona-master\zadania10-12\circularLinkedList.c(161): warning C4715: "readFromFile”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\TH\Downloads\ASD_LAB_22Z-TymoteuszHolona-master (2)\ASD_LAB_22Z-TymoteuszHolona-master\zadania10-12\circularLinkedList.c(184): warning C4716: "saveToFile": musi zwracać wartość
+  10-12oneWay.vcxproj -> C:\Users\TH\source\repos\asd\10-12oneWay\x64\Debug\10-12oneWay.exe

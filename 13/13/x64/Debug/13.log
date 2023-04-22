@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\tymoh\source\repos\asd\13\13\main.c(9,19): warning C4047: "funkcja": "node *" różni się w poziomach operatorów pośrednich od "node **"
+C:\Users\tymoh\source\repos\asd\13\13\main.c(9,13): warning C4024: "addElement": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\tymoh\source\repos\asd\13\13\main.c(10,19): warning C4047: "funkcja": "node *" różni się w poziomach operatorów pośrednich od "node **"
+C:\Users\tymoh\source\repos\asd\13\13\main.c(10,13): warning C4024: "addElement": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\tymoh\source\repos\asd\13\13\main.c(11,19): warning C4047: "funkcja": "node *" różni się w poziomach operatorów pośrednich od "node **"
+C:\Users\tymoh\source\repos\asd\13\13\main.c(11,13): warning C4024: "addElement": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\tymoh\source\repos\asd\13\13\main.c(12,19): warning C4047: "funkcja": "node *" różni się w poziomach operatorów pośrednich od "node **"
+C:\Users\tymoh\source\repos\asd\13\13\main.c(12,13): warning C4024: "addElement": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\tymoh\source\repos\asd\13\13\main.c(15,30): warning C4047: "funkcja": "node *" różni się w poziomach operatorów pośrednich od "node **"
+C:\Users\tymoh\source\repos\asd\13\13\main.c(15,24): warning C4024: "changeElementPriority": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\tymoh\source\repos\asd\13\13\main.c(19,17): warning C4047: "funkcja": "node" różni się w poziomach operatorów pośrednich od "node *"
+C:\Users\tymoh\source\repos\asd\13\13\main.c(19,12): warning C4024: "printList": różne typy dla formalnego i rzeczywistego parametru 1
+  13.vcxproj -> C:\Users\tymoh\source\repos\asd\13\x64\Debug\13.exe

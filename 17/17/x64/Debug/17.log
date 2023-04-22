@@ -1,0 +1,11 @@
+﻿  List.c
+  fileTree.c
+C:\Users\tymoh\source\repos\asd\17\17\fileTree.c(31,11): warning C4133: "inicjowanie": niezgodne typy - od "linkedListNode *" do "listnode"
+  main.c
+C:\Users\tymoh\source\repos\asd\17\17\main.c(38,21): warning C4101: "val": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+C:\Users\tymoh\source\repos\asd\17\17\main.c(29): warning C4715: "Get_Command”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\tymoh\source\repos\asd\17\17\fileTree.c(28): warning C4716: "find": musi zwracać wartość
+C:\Users\tymoh\source\repos\asd\17\17\List.c(25): warning C4716: "listfind": musi zwracać wartość
+C:\Users\tymoh\source\repos\asd\17\17\List.c(19): warning C4716: "listpop": musi zwracać wartość
+  17.vcxproj -> C:\Users\tymoh\source\repos\asd\17\x64\Debug\17.exe
